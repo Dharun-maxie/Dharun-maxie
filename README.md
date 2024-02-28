@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dharun
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Good old Java
+- 🌱 I’m Good at Java and Python
 - 💞️ I’m looking to collaborate on Open source projects
 - you can contact me via
 - 📫 dharunpostbox@gmail.com 
